@@ -1,6 +1,6 @@
 {
     "AWSEBDockerrunVersion": 2,
-    "containnerDefinitions": [
+    "containerDefinitions": [
         {
             "name": "client",
             "image": "rodjuanma/multi-client",
